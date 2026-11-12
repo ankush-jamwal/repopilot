@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+langgraph
+qdrant-client[fastembed]>=1.9,<1.15
+tree-sitter-language-pack
